@@ -16,3 +16,8 @@
 #     shield: halcyon_kyria_right mod_battery_coincell mod_encoder_right
 #
 ---
+include:
+  - board: halcyon_wired
+    shield: halcyon_elora_left
+  - board: halcyon_wired
+    shield: halcyon_elora_right
